@@ -1,0 +1,40 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+    
+.container-fluid img{
+
+ margin-right: 50px;
+ margin-bottom: 30px;
+ block-size: 150px;
+
+
+}
+
+.navbar-nav a
+{
+    background-color: beige;
+    text-transform: capitalize;
+  margin-right: 50px;
+  
+}
+.myMargin{
+
+  margin: 20px;
+  background-color: darkcyan;
+ }
+.districts{
+   margin:20px;
+   background-color: greenyellow;
+   padding-right: 5px;
+}
+.container-fluid{
+  display: block;
+  width: 100px;
+}
+.gradient-custom{
+  background: url(./kerala.png) no-repeat center fixed;
+  background-size: cover;
+
+}
